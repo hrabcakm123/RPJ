@@ -85,11 +85,23 @@
 ![5](README_Obrazky/5.png)
 ![6](README_Obrazky/6.png)
 
+**Panely pre obnovu hesla - video:**
+
+<video src='README_Videa/1.mp4' width=180/>
+
 **Administrátorský panel:**
 
 ![7](README_Obrazky/7.png)
 ![8](README_Obrazky/8.png)
 ![9](README_Obrazky/9.png)
+
+**Administrátorský panel - všetky karty - video:**
+
+<video src='README_Videa/2.mp4' width=180/>
+
+**Administrátorský panel - pridávanie učiteľa a študenta + odosielanie informačného emailu - video:**
+
+<video src='README_Videa/3.mp4' width=180/>
 
 **Učiteľský panel:**
 
@@ -98,10 +110,18 @@
 ![12](README_Obrazky/12.png)
 ![13](README_Obrazky/13.png)
 
+**Učiteľský panel - video:**
+
+<video src='README_Videa/4.mp4' width=180/>
+
 **Študentský panel:**
 
 ![14](README_Obrazky/14.png)
 ![15](README_Obrazky/15.png)
+
+**Študentský panel - video:**
+
+<video src='README_Videa/5.mp4' width=180/>
 
 
 #### Mobilná aplikácia
@@ -149,6 +169,10 @@
 ![26](README_Obrazky/26.png)
 ![27](README_Obrazky/27.png)
 ![28](README_Obrazky/28.png)
+
+**Mobilná aplikácia - video:**
+
+<video src='README_Videa/6.mp4' width=180/>
 
 
 #### Webová aplikácia
