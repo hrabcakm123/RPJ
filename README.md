@@ -15,9 +15,9 @@
 >
 > Nakoniec mobilná aplikácia, zostrojená vo vývojovom prostredí Android Studio, v jazyku Java pre Model a Controller a XML pre View, umožňuje prihlásenie sa študentom, prezeranie si vytvorených štruktúr ich učiteľmi a správu vlastného ToDoListu.
 
-
+---
 #### Databáza
-
+---
 - Základ projektu, úložisko dát
 - Je zložená z 15 tabuliek, rozdelená do 4 sekcií:
 	1. sekcia: Informácie o účtoch (login, heslo, typ účtu)
@@ -50,9 +50,9 @@
 
 ![1](README_Obrazky/1.png)
 
-
+---
 #### Desktopová aplikácia
-
+---
 - Ponúka plnú správu školy pomocou administrátorského panela
 - Prihlasovanie učiteľov a študentov
 - Učitelia môžu vytvárať témy, podtémy a súbory pre žiakov, ktorí si ich po zverejnení môžu prezerať a sťahovať súbory
@@ -123,9 +123,9 @@ https://github.com/user-attachments/assets/91e87cfb-9262-43ec-a9db-124c1a231e7e
 
 https://github.com/user-attachments/assets/39a4c0fc-470b-4f6a-bab5-b83636d81ad5
 
-
+---
 #### Mobilná aplikácia
-
+---
 - Len pre študentov
 - MVC architektúra
 - Android Studio
@@ -174,9 +174,9 @@ https://github.com/user-attachments/assets/39a4c0fc-470b-4f6a-bab5-b83636d81ad5
 
 https://github.com/user-attachments/assets/f141e04b-0d1c-4344-bc2c-6ba74055f472
 
-
+---
 #### Webová aplikácia
-
+---
 - Kompletná administrácia celého systému
 - Administrátor systému vie pridávať a spravovať školy
 - Školský administrátor vie spravovať svoju školu
