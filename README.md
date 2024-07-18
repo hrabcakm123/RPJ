@@ -11,7 +11,7 @@
 >
 > Systém pozostáva z troch aplikácií (webová, desktopová a mobilná). Webová aplikácia je vytvorená pomocou HTML, CSS, JavaScript a PHP v aplikácii PhpStorm a poskytuje možnosť úplnej správy systému administrátorom. Spolu s desktopovou aplikáciou umožňuje prihlásenie sa učiteľov, ktorí môžu spravovať nimi vytvorené materiály pre študentov, ktorých učia a prihlásenie sa študentov, ktorí si tieto materiály vedia prezerať a sťahovať. Každý učiteľ a študent má prístupný svoj vlastný ToDoList, kde si môže zaznamenávať svoje povinnosti.
 >
-> Desktopová aplikácia je zakonštruovaná v jazyku Java pre Model a Controller a FXML pre View. Ponúka možnosť kompletnej správy školy.
+> Desktopová aplikácia je zkonštruovaná v jazyku Java pre Model a Controller a FXML pre View. Ponúka možnosť kompletnej správy školy.
 >
 > Nakoniec mobilná aplikácia, zostrojená vo vývojovom prostredí Android Studio, v jazyku Java pre Model a Controller a XML pre View, umožňuje prihlásenie sa študentom, prezeranie si vytvorených štruktúr ich učiteľmi a správu vlastného ToDoListu.
 
