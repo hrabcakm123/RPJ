@@ -87,7 +87,7 @@
 
 **Panely pre obnovu hesla - video:**
 
-![1-video](https://raw.githubusercontent.com/hrabcakm123/RPJ/main/README_Videa/1.mp4)
+https://github.com/user-attachments/assets/949f2283-df4b-499b-b227-c67f9215b4e8
 
 **Administrátorský panel:**
 
@@ -97,11 +97,11 @@
 
 **Administrátorský panel - všetky karty - video:**
 
-![2-video](https://raw.githubusercontent.com/hrabcakm123/RPJ/main/README_Videa/2.mp4)
+https://github.com/user-attachments/assets/5efa46e7-e96e-43f6-a310-605dc59f7164
 
 **Administrátorský panel - pridávanie učiteľa a študenta + odosielanie informačného emailu - video:**
 
-![3-video](https://raw.githubusercontent.com/hrabcakm123/RPJ/main/README_Videa/3.mp4)
+https://github.com/user-attachments/assets/4d4e58ed-5c55-4124-b44e-067d7c79b4c7
 
 **Učiteľský panel:**
 
@@ -112,7 +112,7 @@
 
 **Učiteľský panel - video:**
 
-![4-video](https://raw.githubusercontent.com/hrabcakm123/RPJ/main/README_Videa/4.mp4)
+https://github.com/user-attachments/assets/91e87cfb-9262-43ec-a9db-124c1a231e7e
 
 **Študentský panel:**
 
@@ -121,7 +121,7 @@
 
 **Študentský panel - video:**
 
-![5-video](https://raw.githubusercontent.com/hrabcakm123/RPJ/main/README_Videa/5.mp4)
+https://github.com/user-attachments/assets/39a4c0fc-470b-4f6a-bab5-b83636d81ad5
 
 
 #### Mobilná aplikácia
@@ -172,7 +172,7 @@
 
 **Mobilná aplikácia - video:**
 
-![6-video](https://raw.githubusercontent.com/hrabcakm123/RPJ/main/README_Videa/6.mp4)
+https://github.com/user-attachments/assets/f141e04b-0d1c-4344-bc2c-6ba74055f472
 
 
 #### Webová aplikácia
